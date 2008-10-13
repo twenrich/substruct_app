@@ -10,3 +10,6 @@
 [submodule "vendor/plugins/attachment_fu_fixtures"]
 	path = vendor/plugins/attachment_fu_fixtures
 	url = git://github.com/mynyml/attachment_fu_fixtures.git
+[submodule "vendor/plugins/active_merchant"]
+	path = vendor/plugins/active_merchant
+	url = git://github.com/Shopify/active_merchant.git
