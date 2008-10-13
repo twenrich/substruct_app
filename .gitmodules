@@ -1,0 +1,6 @@
+[submodule "vendor/plugins/engines"]
+	path = vendor/plugins/engines
+	url = git://github.com/lazyatom/engines.git
+[submodule "./vendor/plugins/substruct"]
+	path = ./vendor/plugins/substruct
+	url = http://git.gitorious.org/substruct/mainline.git
