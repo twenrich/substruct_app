@@ -22,3 +22,6 @@
 [submodule "vendor/plugins/ar_fixtures"]
 	path = vendor/plugins/ar_fixtures
 	url = git://github.com/topfunky/ar_fixtures.git
+[submodule "vendor/rails"]
+	path = vendor/rails
+	url = git://github.com/rails/rails.git
